@@ -44,3 +44,16 @@ proj/
 
 Please see each subfolder for a README file.
 
+---
+Objective: Commodity Pricing Analysis and Prediction
+
+OIL
+COFFEE
+NATURAL GAS
+GOLD
+WHEAT
+COTTON
+SUGAR
+SILVER
+COPPER
+
