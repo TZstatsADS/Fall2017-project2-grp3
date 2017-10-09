@@ -4,34 +4,28 @@
 
 ![screenshot](doc/screenshot2.png)
 
-In this second project of GU4243/GR5243 Applied Data Science, we develop an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
-
-The **learning goals** for this project is:
-
-- business intelligence for data science
-- data cleaning
-- data visualization
-- systems development/design life cycle
-- shiny app/shiny server
-
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
-
-## Project Title Lorem ipsum dolor sit amet
+## Project Title: Project 2 - The Natural Disaster Navigator
 Term: Fall 2017
 
-+ Team #
-+ **Projec title**: + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
++ Team # 3 
++ **The Natural Disaster Navigator**: Team members
+	+ Li, Yiran
+	+ Ren, Hongjie
+	+ Wang, Siyi
+	+ Wei, Yina
+	+ Yang, Hongyang
 
-+ **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ **Project summary**: Natural disasters have been a prominent fixture in this year’s news. From Hurricane Harvey to wildfires in California, each causing casualties, millions or even billions of dollars in damages. What wisdom and insight can we draw from past data to help us make informed decisions, minimize casualties and damages? We present to you our Natural Disaster Navigator, an RShiny App we built based on our belief that is not only of business value but also societal value to understand and extract insights from natural disaster data in order to minimize costs and optimize allocation of government resources in the face of natural disasters.
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+	+ Yiran Li organized group meetings, booked venues for meetings, facilitated discussions, delegated tasks to teammates, obtained, combined and cleaned various data sets (including number of natural disasters and population by state and by year, ) from Data.gov, US Census Bureau, and FEMA, plotted two interactive Google Charts and a motion chart for summary statistics, and presented the project in class.
+	+
+	+
+	+
+	+
+
+
 
 ```
 proj/
@@ -44,16 +38,5 @@ proj/
 
 Please see each subfolder for a README file.
 
----
-Objective: Commodity Pricing Analysis and Prediction
 
-OIL
-COFFEE
-NATURAL GAS
-GOLD
-WHEAT
-COTTON
-SUGAR
-SILVER
-COPPER
 
