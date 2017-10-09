@@ -19,13 +19,6 @@ Term: Fall 2017
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-	+ Yiran Li organized group meetings, booked venues for meetings, facilitated discussions, delegated tasks to teammates, obtained, combined and cleaned various data sets (including number of natural disasters and population by state and by year, ) from Data.gov, US Census Bureau, and FEMA, plotted two interactive Google Charts and a motion chart for summary statistics, and presented the project in class.
-	+
-	+
-	+
-	+
-
-
 
 ```
 proj/
