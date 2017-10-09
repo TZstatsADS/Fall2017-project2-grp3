@@ -1,20 +1,10 @@
-### A Note on Contributions
 
-Whenever we have team projects, there are always concerns on unequal contributions from members of a project team. In the ideal world, we are all here to put in our best efforts and learn together. Even in that ideal world, we have different skill sets and preparations, and we will still contribute differently to a project. 
+Project 2: ** The Natural Disaster Navigator **
 
-Therefore, you are required to post a *contribution statement* in the root README.md of your GitHub repo. Please beware that your GitHub repo will become public and remain public after the due date of the projects. 
+Team members: Yiran Li, Hongjie Ren, Siyi Wang, Yina Wei, Hongyang Yang
 
-Post your title, team members, project abstract and a contribution statement in the README.md file.  This is a common practice for research scientific journals. 
+Summary: In this project, we developed an RShiny App that aims at processing and visualizing natural disaster data, allowing users from high-risk area residents to government officials to explore and extract meaningful insights from disaster data sets in order to minimize costs and optimize resource allocation in the face natural disasters.
 
-Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
-
----
-Sample project README statement.
-
-Project xxx
-
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
-
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
-
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+[Contribution Statement] 
+  + Yiran Li organized group meetings, booked venues for meetings, facilitated discussions, delegated tasks to teammates, obtained, combined and cleaned various data sets (including number of natural disasters and population by state and by year, ) from Data.gov, US Census Bureau, and FEMA, plotted two interactive Google Charts and a motion chart for summary statistics, edited README.md, and presented the project in class.
+  
