@@ -33,7 +33,6 @@ library(data.table)
 library(rvest)
 library(stringr)
 library(tidyr)
-library(geojsonio)
 
 
 ####################data preprocessing######################
@@ -79,7 +78,7 @@ outputdata <- function(disaster='Flash Flood',state='TEXAS',month='July'){
 }
 #######################
 
-states <- geojsonio::geojson_read("us-states.js", what = "sp")
+load("states.RData")
 data_set=aggregate(disaster_4y$INJUR_DEATH, by=list(disaster_4y$STATE), 
                    FUN=sum, na.rm=TRUE)
 
