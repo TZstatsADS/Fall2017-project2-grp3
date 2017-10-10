@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background-image: url("white_water.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100%;
+  width:100%;
+}
+html {
+  height:100%;
+  width:100%;
+}
+h2 {
+  color: white;
+}
+table {
+  width: 69%;
+  font-size: 11px;
+  background: #f5f5f5;
+  border-radius: 9px;
+}
+
+.col-sm-4 {
+  padding-top: 60px;
+}
+.side form.well {
+  background: transparent;
+  border: 0px;
+  
+}
+.descrip_plot {
+
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  width=85%;
+}
+
+.descrip_text {
+  color: white;
+    font-size: 21px;
+    border: 2px #337ab7 solid;
+    background-color: #337ab7;
+    text-align: center;
+    border-radius: 4px;
+}
+
+mymap {
+  height: 100%; 
+  width: 100%;
+  padding-top:20px;
+}
