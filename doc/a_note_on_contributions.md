@@ -7,8 +7,11 @@ Summary: In this project, we developed an RShiny App that aims at processing and
 
 [Contribution Statement] 
   + Yiran Li organized group meetings, booked venues for meetings, facilitated discussions, delegated tasks to teammates, obtained, combined and cleaned various data sets (including number of natural disasters and population by state and by year) from Data.gov, US Census Bureau, and FEMA, plotted two interactive Google Charts and a motion chart for summary statistics, edited README.md, merged and organized teammates' functions, and presented the project in class.
-  + Hongjie Ren
-  + Hongyang Yang
+  
+  + Hongyang Yang obtained detailed natural disaster data from data.gov; combined, cleaned, and preprocessed 4 years data (208,739 obs, 14 variables); designed and developed the interactive map to monitor different type of disasters by state and month;
+   
+  + Hongjie Ren helped Hongyang figure out how to add colors and legend to the interactive map.
+
   + Siyi Wang
   + Yina Wei
   
