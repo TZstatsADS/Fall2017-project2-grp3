@@ -19,7 +19,9 @@ library(shiny)
 library(leaflet)
 library(dplyr)
 library(plyr)
+library(plotly)
 require(RColorBrewer)
+
 data <- read.csv("clean_state_disaster.csv")
 
 # Use global max/min for axes so the view window stays
