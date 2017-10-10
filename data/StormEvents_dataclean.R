@@ -41,7 +41,9 @@ disaster_4y=rbind(disaster_2017,disaster_2016,disaster_2015,disaster_2014)
 save(disaster_4y, file = "disaster_4y.RData")
 # Save multiple objects
 # To load the data again
+library(maptools)
 
+writeSpatialShape(states, "states")
 
 #######################explore dataset#########################################
 which.max(disaster_4y$DEATHS)
