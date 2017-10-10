@@ -78,7 +78,7 @@ outputdata <- function(disaster='Flash Flood',state='TEXAS',month='July'){
 }
 #######################
 
-load("states.RData")
+states <- geojsonio::geojson_read("us-states.js", what = "sp")
 data_set=aggregate(disaster_4y$INJUR_DEATH, by=list(disaster_4y$STATE), 
                    FUN=sum, na.rm=TRUE)
 
