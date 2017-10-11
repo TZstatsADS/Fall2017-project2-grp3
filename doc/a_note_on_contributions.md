@@ -11,7 +11,7 @@ Summary: In this project, we developed an RShiny App that aims at processing and
   
   +Hongyang Yang obtained detailed natural disaster data from data.gov; combined, cleaned, and preprocessed 4 years data (208,739 obs, 14 variables); designed and developed the interactive map to monitor different type of disasters by state and month; helped Hongjie developed the Heatmap,use rgdal convert json file to SpatialPolygons file to avoid libjq error; updated data and readme files,combined the interactive map and heat map server and ui, deployed the final shiny app. 
  
- +Hongjie Ren designed and developed the Heat map for injuries and deaths by each state; processed and aggregated the injured and dead people data by year and integrated the corresponding data by order of states into GeoJSON file as attributes; helped Hongyang figure out how to add colors and legend to the interactive map.
+ +Hongjie Ren designed and developed the Heat map for injuries and deaths by each state; processed and aggregated the injured and dead people data by year and integrated the corresponding data by order of states into GeoJSON file as attributes; add year selection feature on heatmap to illustrate yearly distribution of injuries and deaths; helped Hongyang figure out how to add colors and legend to the interactive map.
   
   +Siyi Wang synchronized natural disaster details data with death age data, build tree map to measure percentage of death in each state and pie chart to measure percentage of death in each age group.
   
