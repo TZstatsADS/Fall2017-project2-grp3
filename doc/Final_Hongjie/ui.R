@@ -61,7 +61,7 @@ states_choices=c('All',as.character(states_choices))
 
 
 months_level = unique(map_data$MONTH_NAME)
-months_choices=c('All',months_level[order(factor(months_level,levels=month.name))])
+months_choices=months_level[order(factor(months_level,levels=month.name))]
 
 year_level=unique(map_data$YEAR)
 year_choices=c('All', year_level[order(year_level)])

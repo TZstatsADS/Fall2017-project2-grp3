@@ -58,7 +58,7 @@ outputdata <- function(disaster='Flash Flood',state='TEXAS',month='July'){
   #prevent null condition
   if (is.null(disaster)){disaster='Flash Flood'}
   if (is.null(state)){state='TEXAS'}
-  if (is.null(month)){month='July'}
+#  if (is.null(month)){month='July'}
   
   if(disaster=='All'){
     disaster_index=(map_data$EVENT_TYPE%in%disaster_level)
@@ -72,11 +72,9 @@ outputdata <- function(disaster='Flash Flood',state='TEXAS',month='July'){
     state_index=(map_data$STATE%in%state)
     
   }
-  if(month=='All'){
-    month_index=(map_data$MONTH_NAME%in%months_level)
-  }else{  
+
     month_index=(map_data$MONTH_NAME%in%month)
-  }
+
   selectData <- map_data[disaster_index & state_index & month_index,]
   return(selectData)
 }
