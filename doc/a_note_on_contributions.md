@@ -13,7 +13,8 @@ Summary: In this project, we developed an RShiny App that aims at processing and
  
  +Hongjie Ren designed and developed the Heat map for injuries and deaths by each state; processed and aggregated the injured and dead people data by year and integrated the corresponding data by order of states into GeoJSON file as attributes; add year selection feature on heatmap to illustrate yearly distribution of injuries and deaths; helped Hongyang figure out how to add colors and legend to the interactive map.
   
-  +Siyi Wang synchronized natural disaster details data with death age data, build tree map to measure percentage of death in each state and pie chart to measure percentage of death in each age group.
+  +Siyi Wang built the frame of Shiny dashboard and designed the home page; extract and cleaned data for required functions; 
+synchronized natural disaster details data with death age data, build tree map to measure percentage of death in each state and pie chart to measure percentage of death in each age group.
   
   +Yina Wei gathered and classfied data from database (including processing data to build column that indicates the ages of dead people from different disaster in different states from 2010 to 2017), plotted two Google Charts to describe the relationship between the age and disaster and conducted analysis on the natural disasters; Finally uploaded the codes and results to the team leader: Yiran Li.
   
